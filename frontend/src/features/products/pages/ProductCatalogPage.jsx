@@ -31,7 +31,6 @@ export function ProductCatalogPage() {
         <div className="hero-header__content">
           <p>Scotiabank Store</p>
           <h1>Productos financieros para comparar y seleccionar</h1>
-          <span>Catalogo local con carrito persistente</span>
         </div>
       </header>
 
